@@ -1,0 +1,3 @@
+[submodule "base-vue-domino"]
+	path = base-vue-domino
+	url = https://github.com/Vijayalekshmi/base-vue-domino.git
